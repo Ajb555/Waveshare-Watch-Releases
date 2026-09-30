@@ -2,8 +2,8 @@
   "schema": 1,
   "channel": "stable",
   "status": "feature-candidate-awaiting-physical-acceptance",
-  "version": "0.7.7",
-  "url": "https://github.com/Ajb555/Waveshare-Watch-Releases/releases/latest/download/waveshare_watch.bin",
-  "sha256": "7BE0F679C638F90AD09EF201047382C9D29B9C98E174798B313812EFAB284C25",
-  "size": 1965632
+  "version": "0.7.8",
+  "url": "https://github.com/Ajb555/Waveshare-Watch-Releases/releases/download/v0.7.8/waveshare_watch.bin",
+  "sha256": "BCE645F0F9F53709EA951CD5A5A5DA823F4A0FF378056014626090BA8AC044FB",
+  "size": 1966544
 }
