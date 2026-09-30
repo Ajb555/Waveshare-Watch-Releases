@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "channel": "stable",
-  "status": "controlled-migration-candidate",
-  "version": "0.7.4",
+  "status": "feature-candidate-awaiting-physical-acceptance",
+  "version": "0.7.5",
   "url": "https://github.com/Ajb555/Waveshare-Watch-Releases/releases/latest/download/waveshare_watch.bin",
-  "sha256": "E3C28371F71BEEB8F5F762A7B84921075279AF9D1DFA9B77D20B3D9B0E54E33A",
-  "size": 1957488
+  "sha256": "3CC6098EA199B5399D053AE6764745E27609949A4EC1E015501CE8EE1C7A1C37",
+  "size": 1965056
 }
